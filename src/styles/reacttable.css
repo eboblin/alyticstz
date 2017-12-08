@@ -1,0 +1,76 @@
+.ReactTable {
+  font-size: 12px; }
+  .ReactTable.-striped .rt-tr.-odd {
+    background-color: #f5f5f5; }
+  .ReactTable.-highlight .rt-tbody .rt-tr:hover,
+  .ReactTable.-highlight .rt-tbody .rt-tr:not(.-padRow):hover {
+    background-color: #e3ebf2; }
+  .ReactTable .rt-tbody .rt-td {
+    text-align: right; }
+    .ReactTable .rt-tbody .rt-td.check, .ReactTable .rt-tbody .rt-td.status {
+      text-align: center; }
+    .ReactTable .rt-tbody .rt-td.campaign {
+      text-align: left; }
+    .ReactTable .rt-tbody .rt-td.status .glyphicon {
+      color: #717171;
+      border-radius: 50%;
+      background: linear-gradient(#f6f6f6, #efefef);
+      border: 1px solid #d1d1d1;
+      /* padding: 5px; */
+      display: inline-block;
+      width: 20px;
+      height: 20px;
+      padding-top: 2px;
+      padding-left: 1px; }
+  .ReactTable .rt-thead.-headerGroups {
+    background: transparent;
+    border-bottom: none; }
+  .ReactTable .rt-thead.-header {
+    box-shadow: none; }
+  .ReactTable .rt-thead .rt-th {
+    border-right: 1px solid #d5d5d5;
+    padding: 0 5px; }
+    .ReactTable .rt-thead .rt-th div.elWrap {
+      cursor: pointer;
+      padding: 10px; }
+    .ReactTable .rt-thead .rt-th.subHead {
+      background: linear-gradient(#fafafa, #e3e3e3);
+      padding: 0 5px;
+      border-bottom: 1px solid #d5d5d5; }
+      .ReactTable .rt-thead .rt-th.subHead i, .ReactTable .rt-thead .rt-th.subHead b {
+        display: block;
+        font-weight: normal;
+        font-style: normal; }
+      .ReactTable .rt-thead .rt-th.subHead b {
+        color: #940d3d; }
+      .ReactTable .rt-thead .rt-th.subHead i {
+        color: #878787; }
+    .ReactTable .rt-thead .rt-th.subHeadBottom {
+      border-bottom: 1px solid #d5d5d5; }
+    .ReactTable .rt-thead .rt-th.boldColLeft {
+      border-left: 1px solid #000; }
+    .ReactTable .rt-thead .rt-th.campaign, .ReactTable .rt-thead .rt-th.status {
+      border-right: 1px solid #000; }
+    .ReactTable .rt-thead .rt-th.defaultHeader {
+      margin-top: -52px;
+      border-bottom: 1px solid #d5d5d5; }
+      .ReactTable .rt-thead .rt-th.defaultHeader div.elWrap {
+        padding: 35px 0; }
+    .ReactTable .rt-thead .rt-th.defaultHeader.noGoals {
+      margin-top: 0; }
+      .ReactTable .rt-thead .rt-th.defaultHeader.noGoals div.elWrap {
+        padding: 10px 0; }
+  .ReactTable .rt-thead .rt-td {
+    border-right: 1px solid #d5d5d5;
+    border-bottom: 1px solid #d5d5d5;
+    padding: 12px 5px; }
+  .ReactTable .rt-tbody .rt-td {
+    border-right: 1px solid #d5d5d5;
+    border-bottom: 1px solid #d5d5d5;
+    padding: 12px 5px; }
+    .ReactTable .rt-tbody .rt-td.boldColLeft {
+      border-left: 1px solid #000; }
+    .ReactTable .rt-tbody .rt-td.campaign, .ReactTable .rt-tbody .rt-td.status {
+      border-right: 1px solid #000; }
+  .ReactTable .rt-tbody .rt-tr-group {
+    border-bottom: 0; }

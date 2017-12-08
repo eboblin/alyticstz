@@ -1,0 +1,179 @@
+$rowHover: #e3ebf2;
+$oddRow: #f5f5f5;
+$grayBorder: #d5d5d5;
+
+.ReactTable
+{
+	font-size: 12px;
+	&.-striped .rt-tr.-odd
+	{
+		background-color: $oddRow;
+	}
+
+	&.-highlight .rt-tbody 
+	{
+		.rt-tr:hover,
+		.rt-tr:not(.-padRow):hover
+		{
+			background-color: $rowHover;
+		}
+	}
+
+	.rt-tbody
+	{
+		.rt-td
+		{
+			text-align: right;
+			&.check,
+			&.status
+			{
+				text-align: center; 
+			}
+
+			&.campaign
+			{
+				text-align: left;
+			}
+
+			&.status
+			{
+				.glyphicon
+				{
+					color: #717171;
+					border-radius: 50%;
+					background: linear-gradient(#f6f6f6, #efefef);
+					border: 1px solid #d1d1d1;
+					/* padding: 5px; */
+					display: inline-block;
+					width: 20px;
+					height: 20px;
+					padding-top: 2px;
+					padding-left: 1px;
+				}
+			}
+		}
+	}
+
+	.rt-thead
+	{
+		&.-headerGroups
+		{
+			background: transparent;
+			border-bottom: none;
+		}
+
+		&.-header
+		{
+			box-shadow: none;
+		}
+
+		.rt-th
+		{
+			border-right: 1px solid $grayBorder;
+			padding: 0 5px;
+
+			div.elWrap
+			{
+				cursor: pointer;
+				padding: 10px;
+			}
+
+			&.subHead
+			{
+				background: linear-gradient(#fafafa, #e3e3e3);
+				padding: 0 5px; 
+				border-bottom: 1px solid $grayBorder;	
+
+				i,b
+				{
+					display: block;
+					font-weight: normal;
+					font-style: normal;	
+				}	
+
+				b
+				{
+					color: #940d3d;
+				}
+
+				i
+				{
+					color: #878787;
+				}
+			}
+
+			&.subHeadBottom
+			{
+				border-bottom: 1px solid $grayBorder;
+			}
+
+			&.boldColLeft
+			{
+				border-left:1px solid #000;
+			}
+
+			&.campaign,
+			&.status
+			{
+				border-right:1px solid #000;
+			}
+
+
+
+			&.defaultHeader
+			{
+				margin-top: -52px;
+				border-bottom: 1px solid $grayBorder;
+				div.elWrap
+				{
+					padding: 35px 0;
+				}
+			}
+
+			&.defaultHeader.noGoals
+			{
+				margin-top: 0;
+				div.elWrap
+				{
+					padding: 10px 0;
+				}				
+				
+			}
+		}
+
+		.rt-td
+		{
+			border-right: 1px solid $grayBorder;
+			border-bottom: 1px solid $grayBorder;
+			padding: 12px 5px;			
+		}
+	}
+
+	.rt-tbody
+	{
+		.rt-td
+		{
+			border-right: 1px solid $grayBorder;
+			border-bottom: 1px solid $grayBorder;
+			padding: 12px 5px;
+
+			&.boldColLeft
+			{
+				border-left:1px solid #000;
+			}
+
+			&.campaign,
+			&.status
+			{
+				border-right:1px solid #000;
+			}			
+			
+		}
+
+		.rt-tr-group
+		{
+			border-bottom: 0;
+		}
+	}
+}
+

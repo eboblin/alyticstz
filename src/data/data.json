@@ -1,0 +1,561 @@
+{
+  "date_from": "2017-10-23",
+  "content": [
+    {
+      "is_active": true,
+      "value": "Yandex Direct",
+      "analytics": {
+        "time_on_site": 30273,
+        "new_visits": 5.63,
+        "pageviews": 124,
+        "bounce_rate": 43.66,
+        "sessions": 71,
+        "average_time": 426.38,
+        "bounces": 31,
+        "new_visits_count": 4,
+        "pages_per_visit": 1.75
+      },
+      "state": "new",
+      "costs": {
+        "ctr": 21.05,
+        "cost": 38.77,
+        "clicks": 12,
+        "cpc": 3.23,
+        "shows": 57
+      },
+      "goals": [
+        {
+          "count": 0,
+          "roi": -100.0,
+          "revenue": 0.0,
+          "cpa": 0.0,
+          "drr": 0.0,
+          "gross_profit": 0.0,
+          "roas": 0.0,
+          "cr": 0.0
+        },
+        {
+          "count": 2,
+          "cpa": 19.39,
+          "cr": 16.67
+        },
+        {
+          "count": 0,
+          "roi": -100.0,
+          "revenue": 0.0,
+          "cpa": 0.0,
+          "drr": 0.0,
+          "gross_profit": 0.0,
+          "roas": 0.0,
+          "cr": 0.0
+        },
+        {
+          "count": 4,
+          "cpa": 9.69,
+          "cr": 33.33
+        },
+        {
+          "count": 4,
+          "cpa": 9.69,
+          "cr": 33.33
+        },
+        {
+          "count": 0,
+          "cpa": 0.0,
+          "cr": 0.0
+        },
+        {
+          "count": 5,
+          "cpa": 7.75,
+          "cr": 41.67
+        },
+        {
+          "count": 0,
+          "cpa": 0.0,
+          "cr": 0.0
+        },
+        {
+          "count": 0,
+          "cpa": 0.0,
+          "cr": 0.0
+        },
+        {
+          "count": 0,
+          "cpa": 0.0,
+          "cr": 0.0
+        },
+        {
+          "count": 0,
+          "cpa": 0.0,
+          "cr": 0.0
+        },
+        {
+          "count": 0,
+          "cpa": 0.0,
+          "cr": 0.0
+        },
+        {
+          "count": 0,
+          "cpa": 0.0,
+          "cr": 0.0
+        },
+        {
+          "count": 0,
+          "cpa": 0.0,
+          "cr": 0.0
+        }
+      ],
+      "service_id": 0,
+      "token_access_id": 33344
+    },
+    {
+      "is_active": true,
+      "value": "Google Adwords",
+      "analytics": {
+        "time_on_site": 88970,
+        "new_visits": 35.67,
+        "pageviews": 827,
+        "bounce_rate": 60.39,
+        "sessions": 457,
+        "average_time": 194.68,
+        "bounces": 276,
+        "new_visits_count": 163,
+        "pages_per_visit": 1.81
+      },
+      "state": "ready",
+      "costs": {
+        "ctr": 0.78,
+        "cost": 10153.32,
+        "clicks": 395,
+        "cpc": 25.7,
+        "shows": 50395
+      },
+      "goals": [
+        {
+          "count": 0,
+          "roi": -100.0,
+          "revenue": 0.0,
+          "cpa": 0.0,
+          "drr": 0.0,
+          "gross_profit": 0.0,
+          "roas": 0.0,
+          "cr": 0.0
+        },
+        {
+          "count": 3,
+          "cpa": 3384.44,
+          "cr": 0.76
+        },
+        {
+          "count": 0,
+          "roi": -100.0,
+          "revenue": 0.0,
+          "cpa": 0.0,
+          "drr": 0.0,
+          "gross_profit": 0.0,
+          "roas": 0.0,
+          "cr": 0.0
+        },
+        {
+          "count": 7,
+          "cpa": 1450.47,
+          "cr": 1.77
+        },
+        {
+          "count": 2,
+          "cpa": 5076.66,
+          "cr": 0.51
+        },
+        {
+          "count": 0,
+          "cpa": 0.0,
+          "cr": 0.0
+        },
+        {
+          "count": 6,
+          "cpa": 1692.22,
+          "cr": 1.52
+        },
+        {
+          "count": 0,
+          "cpa": 0.0,
+          "cr": 0.0
+        },
+        {
+          "count": 0,
+          "cpa": 0.0,
+          "cr": 0.0
+        },
+        {
+          "count": 0,
+          "cpa": 0.0,
+          "cr": 0.0
+        },
+        {
+          "count": 0,
+          "cpa": 0.0,
+          "cr": 0.0
+        },
+        {
+          "count": 0,
+          "cpa": 0.0,
+          "cr": 0.0
+        },
+        {
+          "count": 0,
+          "cpa": 0.0,
+          "cr": 0.0
+        },
+        {
+          "count": 0,
+          "cpa": 0.0,
+          "cr": 0.0
+        }
+      ],
+      "service_id": 2,
+      "token_access_id": 33345
+    },
+    {
+      "is_active": true,
+      "value": "Yandex Market",
+      "analytics": {
+        "time_on_site": 0,
+        "new_visits": 0,
+        "pageviews": 0,
+        "bounce_rate": 0,
+        "sessions": 0,
+        "average_time": 0,
+        "bounces": 0,
+        "new_visits_count": 0,
+        "pages_per_visit": 0
+      },
+      "state": "new",
+      "costs": {
+        "ctr": 0.0,
+        "cost": 0.0,
+        "clicks": 0,
+        "cpc": 0.0,
+        "shows": 0
+      },
+      "goals": [
+        {
+          "count": 0,
+          "roi": 0.0,
+          "revenue": 0.0,
+          "cpa": 0.0,
+          "drr": 0.0,
+          "gross_profit": 0.0,
+          "roas": 0.0,
+          "cr": 0.0
+        },
+        {
+          "count": 0,
+          "cpa": 0.0,
+          "cr": 0.0
+        },
+        {
+          "count": 0,
+          "roi": 0.0,
+          "revenue": 0.0,
+          "cpa": 0.0,
+          "drr": 0.0,
+          "gross_profit": 0.0,
+          "roas": 0.0,
+          "cr": 0.0
+        },
+        {
+          "count": 0,
+          "cpa": 0.0,
+          "cr": 0.0
+        },
+        {
+          "count": 0,
+          "cpa": 0.0,
+          "cr": 0.0
+        },
+        {
+          "count": 0,
+          "cpa": 0.0,
+          "cr": 0.0
+        },
+        {
+          "count": 0,
+          "cpa": 0.0,
+          "cr": 0.0
+        },
+        {
+          "count": 0,
+          "cpa": 0.0,
+          "cr": 0.0
+        },
+        {
+          "count": 0,
+          "cpa": 0.0,
+          "cr": 0.0
+        },
+        {
+          "count": 0,
+          "cpa": 0.0,
+          "cr": 0.0
+        },
+        {
+          "count": 0,
+          "cpa": 0.0,
+          "cr": 0.0
+        },
+        {
+          "count": 0,
+          "cpa": 0.0,
+          "cr": 0.0
+        },
+        {
+          "count": 0,
+          "cpa": 0.0,
+          "cr": 0.0
+        },
+        {
+          "count": 0,
+          "cpa": 0.0,
+          "cr": 0.0
+        }
+      ],
+      "service_id": 17,
+      "token_access_id": 34272
+    }
+  ],
+  "meta": {
+    "show_sessions": true,
+    "geo_stat_available": true
+  },
+  "date_to": "2017-10-29",
+  "goals_list": [
+    {
+      "is_composite": false,
+      "name": "Продажи из CRM",
+      "in_service_id_for_stat": "",
+      "interaction_type": "notset",
+      "goal_id": 38177,
+      "is_economic": true,
+      "in_service_id": -1
+    },
+    {
+      "is_composite": false,
+      "name": "Посещение страницы контактов",
+      "in_service_id_for_stat": 12,
+      "interaction_type": "notset",
+      "goal_id": 38173,
+      "is_economic": false,
+      "in_service_id": 12
+    },
+    {
+      "is_composite": false,
+      "name": "Продажи из Google Analytics",
+      "in_service_id_for_stat": "",
+      "interaction_type": "notset",
+      "goal_id": 38136,
+      "is_economic": true,
+      "in_service_id": -1
+    },
+    {
+      "is_composite": false,
+      "name": "Просмотре раздела Агентсвам",
+      "in_service_id_for_stat": 9,
+      "interaction_type": "notset",
+      "goal_id": 38164,
+      "is_economic": false,
+      "in_service_id": 9
+    },
+    {
+      "is_composite": false,
+      "name": "Регистрация prod.alytics",
+      "in_service_id_for_stat": 8,
+      "interaction_type": "notset",
+      "goal_id": 38161,
+      "is_economic": false,
+      "in_service_id": 8
+    },
+    {
+      "is_composite": false,
+      "name": "Заявка на i.alytics",
+      "in_service_id_for_stat": 4,
+      "interaction_type": "notset",
+      "goal_id": 38149,
+      "is_economic": false,
+      "in_service_id": 4
+    },
+    {
+      "is_composite": false,
+      "name": "кнопка Зарегистрироваться на alytics.ru",
+      "in_service_id_for_stat": 5,
+      "interaction_type": "notset",
+      "goal_id": 38152,
+      "is_economic": false,
+      "in_service_id": 5
+    },
+    {
+      "is_composite": false,
+      "name": "Нет сил ждать релиза?",
+      "in_service_id_for_stat": 2,
+      "interaction_type": "notset",
+      "goal_id": 38143,
+      "is_economic": false,
+      "in_service_id": 2
+    },
+    {
+      "is_composite": false,
+      "name": "тест",
+      "in_service_id_for_stat": 11,
+      "interaction_type": "notset",
+      "goal_id": 38170,
+      "is_economic": false,
+      "in_service_id": 11
+    },
+    {
+      "is_composite": false,
+      "name": "Оставили Мыло light",
+      "in_service_id_for_stat": 1,
+      "interaction_type": "notset",
+      "goal_id": 38140,
+      "is_economic": false,
+      "in_service_id": 1
+    },
+    {
+      "is_composite": false,
+      "name": "1",
+      "in_service_id_for_stat": 10,
+      "interaction_type": "notset",
+      "goal_id": 38167,
+      "is_economic": false,
+      "in_service_id": 10
+    },
+    {
+      "is_composite": false,
+      "name": "Полная форма, если нет сил ждать",
+      "in_service_id_for_stat": 3,
+      "interaction_type": "notset",
+      "goal_id": 38146,
+      "is_economic": false,
+      "in_service_id": 3
+    },
+    {
+      "is_composite": false,
+      "name": "Подписка",
+      "in_service_id_for_stat": 6,
+      "interaction_type": "notset",
+      "goal_id": 38155,
+      "is_economic": false,
+      "in_service_id": 6
+    },
+    {
+      "is_composite": false,
+      "name": "Запись на вебинар/семинар",
+      "in_service_id_for_stat": 7,
+      "interaction_type": "notset",
+      "goal_id": 38158,
+      "is_economic": false,
+      "in_service_id": 7
+    }
+  ],
+  "total": {
+    "analytics": {
+      "time_on_site": 119243,
+      "new_visits": 31.63,
+      "pageviews": 951,
+      "bounce_rate": 58.14,
+      "sessions": 528,
+      "average_time": 225.84,
+      "bounces": 307,
+      "new_visits_count": 167,
+      "pages_per_visit": 1.8
+    },
+    "costs": {
+      "ctr": 0.81,
+      "cost": 10192.09,
+      "clicks": 407,
+      "cpc": 25.04,
+      "shows": 50452
+    },
+    "goals": [
+      {
+        "count": 0,
+        "roi": -100.0,
+        "revenue": 0.0,
+        "cpa": 0.0,
+        "drr": 0.0,
+        "gross_profit": 0.0,
+        "roas": 0.0,
+        "cr": 0.0
+      },
+      {
+        "count": 5,
+        "cpa": 2038.42,
+        "cr": 1.23
+      },
+      {
+        "count": 0,
+        "roi": -100.0,
+        "revenue": 0.0,
+        "cpa": 0.0,
+        "drr": 0.0,
+        "gross_profit": 0.0,
+        "roas": 0.0,
+        "cr": 0.0
+      },
+      {
+        "count": 11,
+        "cpa": 926.55,
+        "cr": 2.7
+      },
+      {
+        "count": 6,
+        "cpa": 1698.68,
+        "cr": 1.47
+      },
+      {
+        "count": 0,
+        "cpa": 0.0,
+        "cr": 0.0
+      },
+      {
+        "count": 11,
+        "cpa": 926.55,
+        "cr": 2.7
+      },
+      {
+        "count": 0,
+        "cpa": 0.0,
+        "cr": 0.0
+      },
+      {
+        "count": 0,
+        "cpa": 0.0,
+        "cr": 0.0
+      },
+      {
+        "count": 0,
+        "cpa": 0.0,
+        "cr": 0.0
+      },
+      {
+        "count": 0,
+        "cpa": 0.0,
+        "cr": 0.0
+      },
+      {
+        "count": 0,
+        "cpa": 0.0,
+        "cr": 0.0
+      },
+      {
+        "count": 0,
+        "cpa": 0.0,
+        "cr": 0.0
+      },
+      {
+        "count": 0,
+        "cpa": 0.0,
+        "cr": 0.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+.ColsFilter {
+  border: 1px solid #cccccc;
+  position: absolute;
+  background-color: #dfe9f1; }
+  .ColsFilter .btn-group-vertical button {
+    background-color: #dfe9f1;
+    border: none; }
+    .ColsFilter .btn-group-vertical button .glyphicon {
+      padding-right: 5px; }
+      .ColsFilter .btn-group-vertical button .glyphicon.glyphicon-check {
+        color: #2591ff; }
+      .ColsFilter .btn-group-vertical button .glyphicon.glyphicon-unchecked {
+        color: #888; }
+  .ColsFilter .closeButtonContainer {
+    text-align: center;
+    display: block;
+    padding: 15px; }
